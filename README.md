@@ -1,5 +1,5 @@
 # Learning Functional Programming with JavaScript ES6+ by Shaun Wassell
-All the coding excercise files from the Linkedin Learning course.
+My version of the coding excercise files from the Linkedin Learning course.
 - ch-01 Intro
   - object.js
 - ch-02 First-class Functions
