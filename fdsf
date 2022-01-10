@@ -1,0 +1,50 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 626d5c1..22c8cb8 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,31 +1,2 @@[m
+[31m-# Learning Functional Programming with JavaScript ES6+ by Shaun Wassell[m
+[31m-My version of the coding excercise files from the Linkedin Learning course.[m
+[31m-- ch-01 Intro[m
+[31m-  - object.js[m
+[31m-- ch-02 First-class Functions[m
+[31m-  - array-of-functions[m
+[31m-  - arrow-function[m
+[31m-  - closure[m
+[31m-  - functions-as-data[m
+[31m-  - higherOrderFunctions[m
+[31m-  - passing-functions-as-arguments[m
+[31m-  - private-variables[m
+[31m-  - returning-functions[m
+[31m-- ch-03 The Functional Parts[m
+[31m-  - combining-the-functions[m
+[31m-  - every-some[m
+[31m-  - filtering[m
+[31m-  - mapping[m
+[31m-  - recreating-map[m
+[31m-  - reducing[m
+[31m-  - slice-function[m
+[31m-  - sort[m
+[31m-  - spread-operator[m
+[31m-- ch-04 Advanced Functionsl Concepts[m
+[31m-  - functions-as-objects[m
+[31m-  - partial-application[m
+[31m-  - recursion[m
+[31m-- Challenges[m
+[31m-  - anagrams[m
+[31m-  - convert-array[m
+[31m-  - error-messages[m
+[32m+[m[32m# linkedin-learning-functional-programming-with-javascript[m
+[32m+[m[32mAll the coding excercise files from the Linkedin Learning course: Learning Functional Programming with JavaScript ES6+ by  Shaun Wassell.[m
+[1mdiff --git a/ch-01 Intro/example.js b/ch-01 Intro/example.js[m
+[1mdeleted file mode 100644[m
+[1mindex 4a43009..0000000[m
+[1m--- a/ch-01 Intro/example.js[m	
+[1m+++ /dev/null[m
+[36m@@ -1,6 +0,0 @@[m
+[31m-const person = {[m
+[31m-    name: 'Uzair',[m
+[31m-    age: 23,[m
+[31m-};[m
+[31m-[m
+[31m-person.name = 'Bob';[m
