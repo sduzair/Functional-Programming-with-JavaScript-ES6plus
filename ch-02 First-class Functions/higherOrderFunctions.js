@@ -22,5 +22,5 @@ secondArgumemtNotZero = (func) =>
         return func(...args);
     }
 
-const divideSafe = secondArgumemtNotZero(divide);
+const divideSafe = secondArgumemtNotZero(divide2);
 divideSafe(7, 0);
