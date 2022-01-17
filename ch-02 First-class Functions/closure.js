@@ -5,7 +5,7 @@ const getSecretNo = () => {
     return () => console.log(`The secret number is ${secretNo}`);
 }
 
-// Will throw exception as getSecretNo already defined
+// Will throw exception as getSecretNo already declared
 // const getSecretNo = () => {
 //     const secretNo = 3443;
 //     return () => console.log(`The secret number is ${secretNo}`);
